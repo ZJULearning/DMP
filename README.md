@@ -1,6 +1,6 @@
 # Discourse Marker Prediction (DMP)
 Code for the DMP task in "Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference".
-If you use this code as part of any published research, please acknowledge the following paper.
+If you use this code as part of any published research, please cite the following paper.
 
 **"Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference"**
 Boyuan Pan, Yazheng Yang, Zhou Zhao, Yueting Zhuang, Deng Cai, Xiaofei He. _ACL (2018)_ 
