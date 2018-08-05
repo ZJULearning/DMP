@@ -1,5 +1,3 @@
-# DMP
-Discourse Marker Prediction
 # Discourse Marker Prediction (DMP)
 Source code for the DMP task in "Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference".
 If you use this code as part of any published research, please acknowledge the following paper.
